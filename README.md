@@ -1,5 +1,131 @@
 # LeetCode
-200 LeetCode problems
+I classify 200 leetcode problems into some categories and upload my code to who concern 
+
+---
+| # | Title | Difficulty |
+|---| ----- | -------- | 
+|  | **Two Pointers** | | 
+|350| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy |
+|560| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium |
+|1234| [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | Medium |
+|632| [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Hard |
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
+|11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
+|283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/solution/) | Easy |
+
+---
+| # | Title | Difficulty |
+|---| ----- | -------- | 
+|  | **STACK AND QUEUE** | | 
+|1249| [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium|
+|856| [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium |
+|946| [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium |
+|609| [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | Medium |
+|503| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium |
+|1047| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | EASY |
+
+---
+| # | Title | Difficulty |
+|---| ----- | -------- | 
+|  | **GREEDY** | | 
+|122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy |
+|392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy |
+|1029| [Two City Scheduling ](https://leetcode.com/problems/two-city-scheduling/) | Easy |
+|406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium |
+|921| [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium |
+|1338| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Medium |
+
+---
+| # | Title | Difficulty |
+|---| ----- | -------- | 
+|  | **HEAP** | | 
+|378| [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium |
+|659| [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | Medium |
+|692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium |
+|973| [K Closest Points to Origin ](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |
+|1054| [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | Medium |
+|218| [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | Hard |
+|857| [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | Hard |
+
+---
+| # | Title | Difficulty |
+|---| ----- | -------- | 
+|  | **LINKED LIST** | | 
+|21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
+|234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy |
+|24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium |
+|86| [Partition List](https://leetcode.com/problems/partition-list/) | Medium |
+|92| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium |
+|148| [Sort List](https://leetcode.com/problems/sort-list/) | Medium |
+|430| [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium |
+|445| [Add Two Numbers II ](https://leetcode.com/problems/add-two-numbers-ii/) | Medium |
+|725| [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium|
+|1019| [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | Medium |
+---
+**GRAPH**
+- Leetcode 1387. Sort Integers by The Power Value [Medium - 2 Point] 
+
+https://leetcode.com/problems/sort-integers-by-the-power-value/
+
+---
+| # | Title | Difficulty |
+|---| ----- | -------- | 
+|  | **BFS** | | 
+|417| [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium |
+|529| [Minesweeper](https://leetcode.com/problems/minesweeper/) | Medium |
+|752| [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium |
+|909| [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium |
+|1129| [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | Medium |
+|1162| [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium |
+|1391| [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+|490| [The Maze ](#490) | Medium |
+|505| [The Maze II ](#505) | Medium|
+|499| [The Maze III ](#499) | Medium |
+---
+
+| # | Title | Difficulty | 
+|---| ---------- |:--------:|
+|  | **DFS** | | 
+| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | 
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | 
+| 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium | 
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | 
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | 
+| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | 
+| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | 
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | 
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium |
+| 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | 
+| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium |
+---
+| # | Title | Difficulty |
+|---| ---------- |:--------:|
+|  | **DJISKTRA** | | |
+| 1135 | [Connecting Cities With Minimum Cost](#1135)  | Medium | 
+| 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |
+---
+| # | Title | Difficulty | 
+|---| ---------- |:--------:|
+|  | **UNION FIND** | | |
+| 323 | [Number of Connected Components in an Undirected Graph](#323) | Medium |
+| 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard | 
+| 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | Hard | 
+| 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | 
+| 1168 | [Optimize Water Distribution in a Village](#1168) | Hard | 
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 
+---
+| # | Title | Difficulty | 
+|:---:| ---------- |:--------:|
+|  | **BINARY SEARCH TREE** | | |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |
+| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | 
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Easy |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium |
 ---
 
 | # | Title | Difficulty |
@@ -46,30 +172,8 @@
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | Medium | 
 
 ---
-| # | Title | Difficulty | 
-|:---:| ---------- |:--------:|
-|  | **BINARY SEARCH TREE** | | |
-| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |
-| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | 
-| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Easy |
-| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium |
-| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium |
----
-| # | Title | Difficulty | 
-|---| ---------- |:--------:|
-|  | **UNION FIND** | | |
-| 323 | [Number of Connected Components in an Undirected Graph](#323) | Medium |
-| 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard | 
-| 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | Hard | 
-| 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | 
-| 1168 | [Optimize Water Distribution in a Village](#1168) | Hard | 
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 
----
-| # | Title | Difficulty |
-|---| ---------- |:--------:|
-|  | **DJISKTRA** | | |
-| 1135 | [Connecting Cities With Minimum Cost](#1135)  | Medium | 
-| 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |
----
+
+
+
+
+
