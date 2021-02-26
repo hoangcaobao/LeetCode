@@ -12,7 +12,7 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |763| [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium |
 
 ---
-**WEEK 1**
+**WEEK 2**
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **Two Pointers** | | 
@@ -25,7 +25,7 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/solution/) | Easy |
 
 ---
-**WEEK 2**
+**WEEK 3**
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **STACK AND QUEUE** | | 
@@ -37,7 +37,7 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |1047| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | EASY |
 
 ---
-**WEEK 3**
+**WEEK 4**
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **GREEDY** | | 
@@ -49,7 +49,7 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |1338| [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Medium |
 
 ---
-**WEEK 4**
+**WEEK 5**
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **HEAP** | | 
@@ -62,7 +62,7 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |857| [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | Hard |
 
 ---
-**WEEK 5**
+**WEEK 6**
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **LINKED LIST** | | 
@@ -77,7 +77,7 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |725| [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium|
 |1019| [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | Medium |
 ---
-**WEEK 6**
+**WEEK 7**
 
 **GRAPH**
 - Leetcode 1387. Sort Integers by The Power Value [Medium - 2 Point] 
@@ -85,7 +85,7 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 https://leetcode.com/problems/sort-integers-by-the-power-value/
 
 ---
-**WEEK 7**
+**WEEK 8**
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **BFS** | | 
@@ -100,7 +100,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 |505| [The Maze II ](#505) | Medium|
 |499| [The Maze III ](#499) | Medium |
 ---
-**WEEK 8**
+**WEEK 9**
 | # | Title | Difficulty | 
 |---| ---------- |:--------:|
 |  | **DFS** | | 
@@ -118,14 +118,14 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | 
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium |
 ---
-**WEEK 9**
+**WEEK 10**
 | # | Title | Difficulty |
 |---| ---------- |:--------:|
 |  | **DJISKTRA** | | |
 | 1135 | [Connecting Cities With Minimum Cost](#1135)  | Medium | 
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |
 ---
-**WEEK 10**
+**WEEK 11**
 | # | Title | Difficulty | 
 |---| ---------- |:--------:|
 |  | **UNION FIND** | | |
@@ -136,17 +136,6 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | 
 | 1168 | [Optimize Water Distribution in a Village](#1168) | Hard | 
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 
----
-**WEEK 11**
-| # | Title | Difficulty | 
-|:---:| ---------- |:--------:|
-|  | **BINARY SEARCH TREE** | | |
-| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |
-| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | 
-| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Easy |
-| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium |
-| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium |
 ---
 **WEEK 12**
 | # | Title | Difficulty |
@@ -174,6 +163,17 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 
 ---
 **WEEK 13**
+| # | Title | Difficulty | 
+|:---:| ---------- |:--------:|
+|  | **BINARY SEARCH TREE** | | |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |
+| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | Medium | 
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Easy |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium |
+---
+**WEEK 14**
 | # | Title | Difficulty |
 |:---:| ---------- |:--------:|
 |  | **MATH** | | |
