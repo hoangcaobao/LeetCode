@@ -176,6 +176,20 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 **WEEK 14**
 | # | Title | Difficulty |
 |:---:| ---------- |:--------:|
+|  | **BINARY TREE** | | |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy | 
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | 
+| 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | Medium |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 
+---
+**WEEK 15**
+| # | Title | Difficulty |
+|:---:| ---------- |:--------:|
 |  | **MATH** | | |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | 
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
