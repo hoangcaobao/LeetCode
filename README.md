@@ -5,6 +5,16 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 **WEEK 1**
 | # | Title | Difficulty |
 |---| ----- | -------- | 
+|  | **Array** | | 
+|15| [3Sum](https://leetcode.com/problems/3sum) | Medium |
+|1324| [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | Medium |
+|566| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Easy |
+|763| [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium |
+
+---
+**WEEK 1**
+| # | Title | Difficulty |
+|---| ----- | -------- | 
 |  | **Two Pointers** | | 
 |350| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy |
 |560| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium |
