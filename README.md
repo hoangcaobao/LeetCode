@@ -68,6 +68,7 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |1019| [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | Medium |
 ---
 **WEEK 6**
+
 **GRAPH**
 - Leetcode 1387. Sort Integers by The Power Value [Medium - 2 Point] 
 
