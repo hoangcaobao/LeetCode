@@ -1,5 +1,5 @@
 # LeetCode
-I classify 200 leetcode problems into some categories and upload my code to who concern 
+I classify 200 leetcode problems into some categories and upload my code to who concern. Moreover, you can visit https://leetcode.com/caobaohoang03/, I will upload code about dynamic programming and backtracking problems using C++ regularly. 
 
 ---
 **WEEK 1**
