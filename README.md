@@ -206,7 +206,21 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 1230 | [Toss Strange Coins](#1230) | Medium |
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | Medium | 
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | Medium | 
-
+---
+**WEEK 16**
+| # | Title | Difficulty |
+|:---:| ---------- |:--------:|
+|  | **Dynamic Programming** | | |
+| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | 
+| 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | 
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium |
+| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Medium | 
+| 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | Medium | 
+| 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium | 
+| 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | 
+| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | 
 ---
 
 
