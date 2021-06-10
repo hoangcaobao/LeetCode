@@ -210,21 +210,6 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 **WEEK 16**
 | # | Title | Difficulty |
 |:---:| ---------- |:--------:|
-|  | **BACKTRACKING** | | |
-| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | 
-| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium |
-| 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | 
-| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | 
-| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium |
-| 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | 
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | 
-| 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | 
-| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | 
-| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | 
----
-**WEEK 17**
-| # | Title | Difficulty |
-|:---:| ---------- |:--------:|
 |  | **Dynamic Programming** | | |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | 
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium |
@@ -236,6 +221,21 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium | 
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | 
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | 
+---
+**WEEK 17**
+| # | Title | Difficulty |
+|:---:| ---------- |:--------:|
+|  | **BACKTRACKING** | | |
+| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | 
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium |
+| 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | 
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | 
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium |
+| 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | 
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | 
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | 
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | 
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | 
 ---
 
 
