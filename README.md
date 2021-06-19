@@ -1,5 +1,5 @@
 # LeetCode
-I classify 200 leetcode problems into some categories and upload my code to who concern. Moreover, you can visit https://leetcode.com/caobaohoang03/, I will upload solutions for dynamic programming and backtracking problems regularly. 
+I classify 200 leetcode problems into fundamental algorithms and upload my C++ and Python solution to who concern. Moreover, you can visit [my profie in LeetCode](https://leetcode.com/caobaohoang03/), I will upload solutions for some  problems regularly. 
 
 ---
 **WEEK 1**
@@ -10,6 +10,12 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |1324| [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | Medium |
 |566| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Easy |
 |763| [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium |
+|55| [Jump Game](https://leetcode.com/problems/jump-game/) | Medium |
+|33| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
+|1465| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
+|1894| [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium |
+|62| [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium |
+|714| [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 
 ---
 **WEEK 2**
@@ -23,6 +29,9 @@ I classify 200 leetcode problems into some categories and upload my code to who 
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/solution/) | Easy |
+|845| [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |
+|209| [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium |
+|287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium |
 
 ---
 **WEEK 3**
@@ -99,6 +108,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 |490| [The Maze ](#490) | Medium |
 |505| [The Maze II ](#505) | Medium|
 |499| [The Maze III ](#499) | Medium |
+
 ---
 **WEEK 9**
 | # | Title | Difficulty | 
@@ -117,6 +127,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium |
 | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | 
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium |
+
 ---
 **WEEK 10**
 | # | Title | Difficulty |
@@ -124,6 +135,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 |  | **DJISKTRA** | | |
 | 1135 | [Connecting Cities With Minimum Cost](#1135)  | Medium | 
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |
+
 ---
 **WEEK 11**
 | # | Title | Difficulty | 
@@ -136,6 +148,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | 
 | 1168 | [Optimize Water Distribution in a Village](#1168) | Hard | 
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 
+
 ---
 **WEEK 12**
 | # | Title | Difficulty |
@@ -186,6 +199,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | Medium |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 
+
 ---
 **WEEK 15**
 | # | Title | Difficulty |
@@ -206,6 +220,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 1230 | [Toss Strange Coins](#1230) | Medium |
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | Medium | 
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | Medium | 
+
 ---
 **WEEK 16**
 | # | Title | Difficulty |
@@ -221,6 +236,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium | 
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | 
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | 
+
 ---
 **WEEK 17**
 | # | Title | Difficulty |
