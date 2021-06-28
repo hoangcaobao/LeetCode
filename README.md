@@ -203,6 +203,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | Medium |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |  | 
 
 ---
 **WEEK 15**
