@@ -260,6 +260,21 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | 
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | 
 ---
+**WEEK 18**
+| # | Title | Difficulty |
+|:---:| ---------- |:--------:|
+|  | **DESIGN (SPEICAL TOPIC)** | | |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | 
+| 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | Easy |
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | 
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | 
+| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium |
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | 
+| 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | Medium | 
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | 
+| 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | Medium | 
+| 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | 
+---
 
 
 
