@@ -263,7 +263,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 **WEEK 18**
 | # | Title | Difficulty |
 |:---:| ---------- |:--------:|
-|  | **DESIGN (SPEICAL TOPIC)** | | |
+|  | **DESIGN (SPECIAL TOPIC)** | | |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | 
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | Easy |
 | 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | 
