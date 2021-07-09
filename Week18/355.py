@@ -1,73 +1,73 @@
-class MyNode:
-    def __init__(self, val, next=None):
-        self.val = val
-        self.next = next
+from sortedcontainers import SortedList
+class Twitter:
 
-
-class MyLinkedList(object):
     def __init__(self):
         """
         Initialize your data structure here.
         """
-        self.head = None
-        self.length = 0
+        self.ownfeed={
+        }
+        self.connect={
+        }
+        self.current=0
 
-    def get(self, index: int) -> int:
+    def postTweet(self, userId: int, tweetId: int) -> None:
         """
-        Get the value of the index-th node in the linked list. If the index is invalid, return -1.
+        Compose a new tweet.
         """
-        if index < 0 or index >= self.length:
-            return -1
-        current = self.head
-        for i in range(index):
-            current = current.next
-        return current.val
+        self.current+=1
+        if userId not in self.ownfeed:
+            self.ownfeed[userId]=[]
+        self.ownfeed[userId].append([tweetId, self.current])
+        
+    def getNewsFeed(self, userId: int) -> List[int]:
+        """
+        Retrieve the 10 most recent tweet ids in the user's news feed. Each item in the news feed must be posted by users who the user followed or by the user herself. Tweets must be ordered from most recent to least recent.
+        """
+        contain=SortedList(key = lambda x: -x[1])
+        if userId in self.ownfeed:
+            for i in range(len(self.ownfeed[userId])-1, max(-1, len(self.ownfeed[userId])-11),-1):
+                contain.add(self.ownfeed[userId][i])
+        
+        if userId in self.connect:
+            for follower in self.connect[userId]:
+                if follower in self.ownfeed:
+                    for i in range(len(self.ownfeed[follower])-1, max(-1, len(self.ownfeed[follower])-11),-1):
+                        contain.add(self.ownfeed[follower][i])
+       
+        result=[]
+        for i in range(0, min(10, len(contain))):
+            if contain[i][0] not in result:
+                result.append(contain[i][0])
+        return result
+        
 
-    def addAtHead(self, val: int) -> None:
+    def follow(self, followerId: int, followeeId: int) -> None:
         """
-        Add a node of value val before the first element of the linked list. After the insertion, the new node will be
-        the first node of the linked list.
+        Follower follows a followee. If the operation is invalid, it should be a no-op.
         """
-        self.addAtIndex(0, val)
+        if followerId!=followeeId:
+            if followerId not in self.connect:
+                self.connect[followerId]=[]
+            self.connect[followerId].append(followeeId)
 
-    def addAtTail(self, val: int) -> None:
+    def unfollow(self, followerId: int, followeeId: int) -> None:
         """
-        Append a node of value val to the last element of the linked list.
+        Follower unfollows a followee. If the operation is invalid, it should be a no-op.
         """
-        self.addAtIndex(self.length, val)
+        if followerId!=followeeId:
+            if followerId in self.connect:
+                try:
+                    self.connect[followerId].remove(followeeId)
+                except:
+                    pass
+        
+        
 
-    def addAtIndex(self, index: int, val: int) -> None:
-        """
-        Add a node of value val before the index-th node in the linked list. If index equals to the length of linked
-        list, the node will be appended to the end of linked list. If index is greater than the length, the node will not
-        be inserted.
-        """
-        if index > self.length:
-            return
-        current = self.head
-        new_node = MyNode(val)
-        if index <= 0:
-            self.head=MyNode(val, self.head)
-            
-        else:
-            for i in range(index - 1):
-                current = current.next
-            current.next=MyNode(val, current.next)
-        self.length += 1
 
-    def deleteAtIndex(self, index: int) -> None:
-        """
-        Delete the index-th node in the linked list, if the index is valid.
-        """
-        if index < 0 or index >= self.length:
-            return
-
-        current = self.head
-        if index == 0:
-            self.head = self.head.next
-        else:
-            for i in range(index - 1):
-                current = current.next
-            current.next = current.next.next
-
-        self.length -= 1
+# Your Twitter object will be instantiated and called as such:
+# obj = Twitter()
+# obj.postTweet(userId,tweetId)
+# param_2 = obj.getNewsFeed(userId)
+# obj.follow(followerId,followeeId)
+# obj.unfollow(followerId,followeeId)
