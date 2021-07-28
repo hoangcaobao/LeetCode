@@ -90,13 +90,17 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 |445| [Add Two Numbers II ](https://leetcode.com/problems/add-two-numbers-ii/) | Medium |
 |725| [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium|
 |1019| [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | Medium |
+
 ---
 **WEEK 7**
-
-**GRAPH**
-- Leetcode 1387. Sort Integers by The Power Value [Medium - 2 Point] 
-
-https://leetcode.com/problems/sort-integers-by-the-power-value/
+| # | Title | Difficulty |
+|---| ----- | -------- | 
+|  | **GRAPH**| | 
+|1387|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)| Medium |
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| Easy |
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| Medium |
+|1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)| Medium |
+|787|[ Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)| Medium |
 
 ---
 **WEEK 8**
@@ -153,6 +157,9 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | 
 | 1168 | [Optimize Water Distribution in a Village](#1168) | Hard | 
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| Medium |
+|684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)| Medium |
+
 
 ---
 **WEEK 12**
@@ -192,6 +199,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | Medium |
+
 ---
 **WEEK 14**
 | # | Title | Difficulty |
@@ -260,6 +268,7 @@ https://leetcode.com/problems/sort-integers-by-the-power-value/
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | 
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | 
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | 
+
 ---
 **WEEK 18**
 | # | Title | Difficulty |
