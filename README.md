@@ -32,6 +32,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 |845| [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | Medium |
 |209| [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium |
 |287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium |
+|16| [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium |
 
 ---
 **WEEK 3**
