@@ -285,8 +285,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | Medium | 
 | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | 
 ---
-
-
+### HOANG CAO BAO
 
 
 
