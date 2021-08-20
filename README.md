@@ -216,6 +216,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | 
+| 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium | 
 
 ---
 **WEEK 15**
