@@ -146,6 +146,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 |  | **DJISKTRA** | | |
 | 1135 | [Connecting Cities With Minimum Cost](#1135)  | Medium | 
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |
+| 1976 | [Number of Ways to Arrive at Destination]( Number of Ways to Arrive at Destination) | Medium |
 
 ---
 **WEEK 11**
@@ -271,6 +272,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | 
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | 
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | 
+| 37 | [ Sudoku Solver ](https://leetcode.com/problems/sudoku-solver/) | Hard | 
 
 ---
 **WEEK 18**
