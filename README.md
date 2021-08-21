@@ -146,7 +146,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 |  | **DJISKTRA** | | |
 | 1135 | [Connecting Cities With Minimum Cost](#1135)  | Medium | 
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |
-| 1976 | [Number of Ways to Arrive at Destination]( Number of Ways to Arrive at Destination) | Medium |
+| 1976 | [Number of Ways to Arrive at Destination]( https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium |
 
 ---
 **WEEK 11**
