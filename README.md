@@ -1,5 +1,5 @@
 # LeetCode
-I classify 200 leetcode problems into fundamental algorithms and upload my C++ and Python solution to who concern. Moreover, you can visit [my profie in LeetCode](https://leetcode.com/caobaohoang03/), I will upload solutions for some  problems regularly. 
+I classify 200 leetcode problems into fundamental algorithms and upload my C++ and Python solution to who concern. Moreover, you can visit [my profie in LeetCode](https://leetcode.com/caobaohoang03/), I will upload solutions for some  problems regularly. Hope you have great time practicing Leetcode.
 
 ---
 **WEEK 1**
