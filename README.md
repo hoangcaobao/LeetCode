@@ -219,6 +219,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | 
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | 
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium | 
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | Medium | 
 
 ---
 **WEEK 15**
