@@ -256,7 +256,8 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | Medium | 
 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium | 
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | 
-| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium | 
+| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |
 
 ---
 **WEEK 17**
@@ -274,6 +275,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | 
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | 
 | 37 | [ Sudoku Solver ](https://leetcode.com/problems/sudoku-solver/) | Hard | 
+| 522 | [ Longest Uncommon Subsequence II ](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | Medium | 
 
 ---
 **WEEK 18**
