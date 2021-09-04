@@ -291,6 +291,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | Medium | 
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | 
 | 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | Medium | 
+| 1993 | [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) | Medium | 
 | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | 
 ---
 ## HOANG CAO BAO
