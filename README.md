@@ -147,6 +147,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 1135 | [Connecting Cities With Minimum Cost](#1135)  | Medium | 
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |
 | 1976 | [Number of Ways to Arrive at Destination]( https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium |
+| 882 | [Reachable Nodes In Subdivided Graph]( https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | Hard |
 
 ---
 **WEEK 11**
