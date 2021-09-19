@@ -259,6 +259,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | 
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard |
 
 ---
 **WEEK 17**
