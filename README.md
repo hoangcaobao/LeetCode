@@ -46,7 +46,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 |946| [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium |
 |609| [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | Medium |
 |503| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium |
-|1047| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | EASY |
+|1047| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy |
 
 ---
 **WEEK 4**
