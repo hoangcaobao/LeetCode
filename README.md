@@ -278,6 +278,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | 
 | 37 | [ Sudoku Solver ](https://leetcode.com/problems/sudoku-solver/) | Hard | 
 | 522 | [ Longest Uncommon Subsequence II ](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | Medium | 
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters ](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | 
 
 ---
 **WEEK 18**
