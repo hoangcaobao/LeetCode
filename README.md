@@ -18,6 +18,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 |62| [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium |
 |714| [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 |36| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium |
+|929| [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy |
 
 ---
 **WEEK 2**
