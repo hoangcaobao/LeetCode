@@ -261,6 +261,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |
+| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard |
 
