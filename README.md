@@ -264,6 +264,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |
+| 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Hard |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard |
 
 ---
