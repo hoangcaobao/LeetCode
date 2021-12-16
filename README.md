@@ -303,6 +303,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | Medium | 
 | 1993 | [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) | Medium | 
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | Medium | 
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | 
 | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | Hard | 
 ---
 ## HOANG CAO BAO
