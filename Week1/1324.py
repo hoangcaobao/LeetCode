@@ -21,5 +21,5 @@ class Solution:
             chu=""
         for i in range(0,len(result)):
             result[i]=result[i].rstrip()
-                
+                print(y)
         return result
